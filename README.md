@@ -252,11 +252,9 @@ MAX_TRANSLATE_DOCS = int(os.getenv("MAX_TRANSLATE_DOCS", "200")) # Cambia este v
 ```
 ├─ nlp_pipeline_aws_local.ipynb
 ├─ README.md
-├─ requirements.txt
-├─ .gitignore
-├─ .env.example            
+├─ requirements.txt          
 └─ data/
-   └─ AMAZON-REVIEW-DATA-CLASSIFICATION.csv 
+   └─ AMAZON-REVIEW-DATA-CLASSIFICATION.zip 
 ```
 
 ## Créditos y referencias
