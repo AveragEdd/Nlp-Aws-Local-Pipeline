@@ -258,7 +258,7 @@ MAX_TRANSLATE_DOCS = int(os.getenv("MAX_TRANSLATE_DOCS", "200")) # Cambia este v
 ```
 
 ## Créditos y referencias
-```md
+
 Este proyecto fue inspirado/estructurado a partir de contenidos de:
 
 - AWS Academy — Machine Learning for Natural Language Processing (curso base).
@@ -281,4 +281,3 @@ Baselines y librerías en modo local:
   - https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html
 - HuggingFace / MarianMT (traducción local fallback con Helsinki-NLP/opus-mt-en-es).
   - https://huggingface.co/Helsinki-NLP/opus-mt-en-es
-```
